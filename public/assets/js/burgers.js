@@ -4,7 +4,7 @@ $(function() {
     var id = $(this).data("id");
   
 
-    var newDevourState = {
+    var newDevouredState = {
       devoured: true
     };
 
