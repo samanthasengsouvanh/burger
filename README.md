@@ -9,4 +9,4 @@ https://eat-da-burgie.herokuapp.com/
 
 ### Demo
 
-<iframe src="https://giphy.com/embed/hogdzFKaPtAseebhng" width="480" height="242" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hogdzFKaPtAseebhng">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/hogdzFKaPtAseebhng" width="480" height="242" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/hogdzFKaPtAseebhng">via GIPHY</a></p>
